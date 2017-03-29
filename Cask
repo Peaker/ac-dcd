@@ -3,7 +3,7 @@
 
 (package "ac-dcd" "0.4" "")
 
-(depends-on "flycheck-dmd-dub")
+;(depends-on "flycheck-dmd-dub")
 (depends-on "auto-complete")
 
 (development

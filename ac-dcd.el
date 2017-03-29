@@ -44,7 +44,7 @@
 (require 'rx)
 (require 'yasnippet nil t)
 (require 'json)
-(require 'flycheck-dmd-dub)
+;(require 'flycheck-dmd-dub)
 
 (defcustom ac-dcd-executable
   "dcd-client"
